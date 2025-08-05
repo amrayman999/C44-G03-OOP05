@@ -22,7 +22,7 @@ namespace Assignment
             // => (b) yes, interfaces can inherit from multiple interfaces
 
             //Question 05
-            // None , we use colon for implementing interface
+            // => (d) implements, but that is the meaning only , in action we use colon 
 
             //Question 06
             // => (a) yes
